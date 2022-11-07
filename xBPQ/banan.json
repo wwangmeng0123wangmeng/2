@@ -20,7 +20,7 @@
 "搜索模式":"1",
 "搜索url":"/index.php/ajax/suggest?mid=1&wd=&limit=500",
 "搜索后缀": "/voddetail/",
-"分类":"分類$vodtype/25#選片$topicdetail-18#AV番号$topicdetail-8",
+"分类":"分類$vodtype/22#選片$topicdetail-18#AV番号$topicdetail-8",
 "分类url":"https://banan.tv/{cateId}-{catePg}.html",
 "免嗅":"1",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",

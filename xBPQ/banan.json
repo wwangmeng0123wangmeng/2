@@ -1,6 +1,6 @@
 {
 "站名":"banan",
-"主页url":"https://banan.tv/",
+"主页url":"https://768pv.top/",
 "直接播放":"1",
 "图片代理":"0",
 "数组":"col-sm-4&&</div>",
@@ -21,7 +21,7 @@
 "搜索url":"/index.php/ajax/suggest?mid=1&wd=&limit=500",
 "搜索后缀": "/voddetail/",
 "分类":"分类$vodtype/22#選片$topicdetail-18#AV番号$topicdetail-8#名优$topicdetail-33",
-"分类url":"https://banan.tv/{cateId}-{catePg}.html",
+"分类url":"https://768pv.top/{cateId}-{catePg}.html",
 "免嗅":"1",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "筛选":{
